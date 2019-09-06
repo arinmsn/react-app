@@ -1,5 +1,6 @@
 body {
   margin: 0;
+  font-family: "Manjari";
 }
 
 header {
@@ -11,9 +12,16 @@ header {
   color: #fff;
   font-size: 40px;
   font-family: "Manjari";
+  padding-top: 20px;
 }
 
 header input {
   font-size: 20px;
   margin: 20px 0;
+}
+
+.news_item {
+  padding: 20px;
+  box-sizing: border-box;
+  border-bottom: 1px solid purple;
 }
